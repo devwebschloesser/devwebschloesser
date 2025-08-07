@@ -1,13 +1,38 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b53ea&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=53eae8&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+I'm+Leonardo+Schloesser+=D;I'm+30+years+old;From+Torres-RS;+Front-End+Developer+HTML5+CSS3+JavaScript+React...;Be+Welcome!+Dev's)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+I'm+Leonardo+Schloesser+=D;I'm+30+years+old;From+Torres-RS;+Front-End+Developer+HTML5+CSS3+JavaScript+React...;Be+Welcome!+Dev's)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devwebschloesser&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Schloesser github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwebschloesser&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devwebschloesser&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br> 
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=devwebschloesser&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwebschloesser&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devwebschloesser&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=midnight-purple&card_width=885"
+  />
+  </div>
+<br> 
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/leonardo-schloesser-0043a81b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank">
@@ -16,13 +41,7 @@
   </a>   
 
 </div> 
- 
-
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="javascript logo"  />
@@ -44,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="26" alt="tailwindcss logo"  />
 </div>
 
-
+<br> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -55,9 +74,10 @@
        src="https://raw.githubusercontent.com/devwebschloesser/devwebschloesser/output/pacman-contribution-graph.svg">
 </picture>
 <br>
+<br> 
 
 <p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdevwebschloesser&s=26&c=ab5fce&bg=00000000&no=5&ff=digii&tb=++%3D%3E++++&ta=++++Visitors%21+%3D%29+" alt="visits"/>
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdevwebschloesser&s=33&c=9745f5&bg=00000000&no=5&ff=digii&tb=Profile+Visitors%21+++&ta=++%3D%29+" alt="visits" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b53ea&height=120&section=footer"/>
