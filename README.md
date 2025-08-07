@@ -54,11 +54,10 @@
   <img alt="Pac‑Man contribution graph"
        src="https://raw.githubusercontent.com/devwebschloesser/devwebschloesser/output/pacman-contribution-graph.svg">
 </picture>
+<br>
 
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devwebschloesser.devwebschloesser&"  />
-</div>
+<p align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdevwebschloesser&s=26&c=ab5fce&bg=00000000&no=5&ff=digii&tb=++%3D%3E++++&ta=++++Visitors%21+%3D%29+" alt="visits"/>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b53ea&height=120&section=footer"/>
